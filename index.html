@@ -26,12 +26,27 @@
                     <!-- <button type="submit">Submit</button> -->
                     <button id = "button" type="submit" class="btn btn-secondary btn-lg">Start ▶️ Quiz</button>
                     <hr>
+                    <div>
+                        <div id="time" class="quiz-timer"> 
+                        </div>
                 </form>
+                <!-- <div id="questions> -->
+                    <div id="questions" class="quiz-body">
+                        Question will appear here!  
+                        <!--Options  -->
+                    </div>
+                        <ul id= "options" class="options">
+                            <label class="option"><input type="radio" name="option" value="1"/><span id="opt1"></span></label>
+                            <label class="option"><input type="radio" name="option" value="2"/><span id="opt2"></span></label>
+                            <label class="option"><input type="radio" name="option" value="3"/><span id="opt3"></span></label>
+                            <label class="option"><input type="radio" name="option" value="4"/><span id="opt4"></span></label>
+                        </ul>
+                        <hr>
+                <!-- Next Question button -->
+                <button id = "next" class="btn-next" >Next Question</button>
+
             </div>
         </div>
-
-
-
 
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
