@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    text-align: center;
+    background-color: skyblue;
+    font-size: 20px;
+    margin: auto;
+    border-radius: 70%;
+}
+
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    max-width: 80rem;
+    margin: 0 auto;
+    background-color: lightblue;
+}
+.btn{
+    padding: 10px;
+    font-style: italic;
+    font-size: 15px;   
+}
+
+.btn:hover{
+    cursor: pointer;
+    color: red;
+    transform: translateY(-5px);
+}
+.title{
+    text-align: center;
+    font-size: 35px;
+}
