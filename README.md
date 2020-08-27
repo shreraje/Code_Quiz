@@ -9,11 +9,13 @@ At first, user will have to enter their name which will be stored in local stora
 I used basic concepts of HTML, CSS and JavaScript to develope this Code Quiz application. I found this project is more challenging and time-taking than previous 3 projects. At first, I had no idea how to plan and accomplish this project but with the help class activities, some learnings from websites, tutors and TAs were very helpful. As I am still learning, new codes everyday, it took me a while to figure out to complete this project.
 
 ## Screenshot of deployed application:
-Screen Shot 2020-08-26 at 11.58.24 PM
+![image](https://user-images.githubusercontent.com/61192734/91409238-04683580-e7fa-11ea-9103-f510520788fc.png)
+
 ## Screenshot of deployed application after code quiz was completed:
-Screen Shot 2020-08-27 at 12.05.03 AM
+![image](https://user-images.githubusercontent.com/61192734/91409291-13e77e80-e7fa-11ea-9ddf-5252c6cda201.png)
 
 ## The URL of the deployed application:
 https://shreraje.github.io/Code_Quiz/
+
 ## The URL of the GitHub repository:
 https://github.com/shreraje/Code_Quiz
