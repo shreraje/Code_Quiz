@@ -84,8 +84,8 @@
     font-weight: bold;
     padding-left: 200px;
 }
-.hidden{
-    background-color: lightgreen;
-    font-size: large;
+#score{
+    background-color: lightyellow;
+    font-size: 30px;
     font-weight: bolder;
 }
