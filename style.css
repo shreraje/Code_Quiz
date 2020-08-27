@@ -84,3 +84,8 @@
     font-weight: bold;
     padding-left: 200px;
 }
+.hidden{
+    background-color: lightgreen;
+    font-size: large;
+    font-weight: bolder;
+}
